@@ -5,4 +5,3 @@ and GitHub.<p>
 <p> new branch<p>
 <p> trying pr<p>
 <p> merge<p>
-<p>revert<p>
