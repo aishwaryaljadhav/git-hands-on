@@ -1,0 +1,3 @@
+[submodule "lib/git-add"]
+	path = lib/git-add
+	url = https://github.com/aishwaryaljadhav/git-add.git
